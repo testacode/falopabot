@@ -29,6 +29,14 @@ La idea era hacer un bot para que Alma se divierta (?)
 
 Want to contribute? Great! Shut up! NO
 
+### Visual
+
+#### Chistes
+![chistes](https://user-images.githubusercontent.com/1852080/83341892-b4dba180-a2be-11ea-9bb8-3acf44099f31.gif)
+
+#### Preguntas (?)
+![preguntas](https://user-images.githubusercontent.com/1852080/83341906-e48aa980-a2be-11ea-86e7-9e6c91d09b6f.gif)
+
 License
 ----
 
