@@ -5,6 +5,10 @@ const truncate = require('lodash/truncate');
 
 const chistesDB = require('./db');
 
+const consultarISS = require('./funciones/iss');
+
+consultarISS();
+
 const TeleBot = require('telebot');
 const bot = new TeleBot({
   token: process.env.BOT_TOKEN,
