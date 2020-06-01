@@ -28,7 +28,7 @@
     "where": "^0.4.0"
   },
   "devDependencies": {
-    "eslint": "6.8.0",
+    "eslint": "7.1.0",
     "eslint-config-node": "4.1.0",
     "nodemon": "2.0.4"
   }
